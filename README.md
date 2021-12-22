@@ -13,7 +13,7 @@ Script names and functions are listed below *in order*.  Note: ERA5 download scr
 **ep_days_line_plots** - display seasonal frequency and individual precipitation of EP days  
 **ep_day_geotrends_overview** - plots trends in season total EP day precipitation at each station  
 
-**ar_detection_and_weather_typing** - detects ARs based on criteria outlined in paper, and sorts EP days into 11 weather types; also plots 6-hourly maps of these days that show 850 hPa winds (arrows), MSLP (solid contours), IVT above 250 kg m-1 s-1 (grey shading), detected ARs (blue fill over IVT), tropical (red stars) and non-tropical (brown stars) IBTrACS systems, station precipitation classified by weather type (colored dots), and EP day classification (upper left).  
+**ar_detection_and_weather_typing** - detects ARs based on criteria outlined in paper, and sorts EP days into 11 weather types; also plots 6-hourly maps of these days that show 850 hPa winds (arrows), MSLP (solid contours), IVT above 250 kg m-1 s-1 (grey shading), detected ARs (blue fill over IVT), tropical (red stars) and non-tropical (brown stars) IBTrACS systems, station extreme precipitation, and EP day classification (upper left).  
 **ivt_threshold_sensitivity_testing** - calculates trends in seasonal AR-dominant EP day frequency and precipitation based on different IVT thresholds  
 
 **ep_days_bar_plots** - plot seasonal frequency and cumulative precipitation from different types of EP days in different seasons  
